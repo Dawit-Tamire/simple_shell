@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_history - builtin command hsh_history, mimics builtin history
  * @arg_list: argrument list of input
  * @envp: environemental variable list

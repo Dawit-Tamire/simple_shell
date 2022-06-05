@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * create_history - creates a linked list for user
  * command history, size is 4096
  * @history: history linked list to pass

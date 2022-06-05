@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * add_cmdhist - add new command to the history linked list
  * @history: history linked list
  * @cmd: command to put into the history

@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * cd_path - function to return the path to change directory
  * @arg_list: arg list given by user (directory to change to)
  * @envp: environemental linked list to find HOME and OLDPWD

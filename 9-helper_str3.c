@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * _strstr_int - finds the first occurence of the substring needle
  * in the string haystack
  * @haystack: string to search

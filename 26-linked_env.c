@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * create_envlist - creates a linked list with all environment
  * variables in the extern environ variable
  * Return: head of created list

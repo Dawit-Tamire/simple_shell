@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * _getline - Read input and put in buffer
  * @b: buffer structure
  * @fd: file descriptor to read from

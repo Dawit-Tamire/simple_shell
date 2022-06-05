@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_setenv - builtin command hsh_setenv, mimics builtin setenv
  * @arg_list: list of arguements that contain the env name, value and
  * overwrite value

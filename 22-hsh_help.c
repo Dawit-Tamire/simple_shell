@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_help - help command for hsh_shell builtins
  * @arg: argument lists;
  * Return: 0 if success and 2 if failed

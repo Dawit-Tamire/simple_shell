@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * print_cmdline - prints the command line or PS1
  */
 void print_cmdline(void)

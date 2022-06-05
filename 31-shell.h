@@ -15,7 +15,7 @@
 #define BUFSIZE 600
 #define FREE_ADDRESSES ((void *)3)
 #define ARRAY_SIZE(ARRAY) (sizeof(ARRAY) / sizeof((ARRAY)[0]))
-/**
+/
  * struct buffer - structure for controlling buffer
  * @buf: pointer the buffer
  * @size: size of the buffer

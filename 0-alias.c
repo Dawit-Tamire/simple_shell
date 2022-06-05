@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * alias_expansion - wrapper function for checking and replacing aliases
  * @b: buffer structure
  * @env_p: enviornment struct to pass along

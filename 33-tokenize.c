@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * tokenize_buf - tokenize buffer by inputting NULLs and filling **av
  * @b: The buffer with the command string
  * @argv: Pointer to the command argument vector

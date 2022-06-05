@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * _str_match - See if two strings are matching
  * @s1: string 1
  * @s2: string 2

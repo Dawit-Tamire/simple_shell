@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * _write - Write information to STDOUT
  * @s: string;
  */

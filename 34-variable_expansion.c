@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * variable_expansion - Expand variables in the buffer
  * @b: buffer structure
  * @envp: Enviorn structure

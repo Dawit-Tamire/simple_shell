@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * run_builtin - checking arg_list for builtins and executing found cmd.
  * @arg_list: argument list
  * @env_p: enviorn list

@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * _strdup - returns a pointer to a new string which is a duplicate
  * of string str
  * @str: string to copy

@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * main - Holberton Shell
  * @argc: argument count
  * @argv: a list of all arguments

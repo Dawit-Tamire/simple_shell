@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_exit - builtin command hsh_exit, mimics exit
  * @arg_list: arg_list given by user input
  * @envp: environmental linked list

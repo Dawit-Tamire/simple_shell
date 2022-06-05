@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * get_path - copies the $PATH into the string path
  * @path: string to copy the $PATH into
  * @list: environemental variable list

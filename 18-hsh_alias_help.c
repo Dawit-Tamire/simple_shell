@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_alias_help - builtin help printout for alias
  * Return: Always 0
  */

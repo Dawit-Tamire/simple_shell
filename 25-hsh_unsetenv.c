@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_unsetenv - builtin command hsh_unsetenv, mimics builtin unsetenv
  * @arg_list: arguement list for unstenv, contains the variable name
  * @envp: the linked list of all environment variables

@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * history_wrapper - determines what to do for history
  * @cmd: command for add history mode
  * @envp: environemental variable linked list

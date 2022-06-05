@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * buffer_reallocate - resize and copy over into new buffer space
  * @b: pointer to buffer structure
  */

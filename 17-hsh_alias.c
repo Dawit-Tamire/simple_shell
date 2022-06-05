@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * hsh_alias - builtin for alias function
  * @argv: argument vector
  * @env_p: env list

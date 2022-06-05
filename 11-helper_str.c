@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/
  * _memcpy - copies n bytes form the memory area src
  * to memory area dest
  * @src: source code to copy

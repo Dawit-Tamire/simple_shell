@@ -1,5 +1,5 @@
 #include "shell.h"
-/**
+/
  * signal_handler - handles the ctrl-c signal
  * @signo: signal received
  */
